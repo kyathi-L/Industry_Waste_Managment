@@ -1,0 +1,54 @@
+.material-manager {
+    background-color: #f8f9fa;
+    color: #212529;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .material-manager h1 {
+    font-size: 2rem;
+    color: #343a40;
+  }
+  
+  .material-manager p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  .material-actions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .material-input {
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  .material-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .material-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .material-item span {
+    font-weight: 500;
+  }
+  
